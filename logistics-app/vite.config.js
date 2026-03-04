@@ -8,7 +8,7 @@ export default defineConfig({
     host: '0.0.0.0',
     port: parseInt(process.env.PORT) || 8080,
     strictPort: true,
-    allowedHosts: ['lolayde-app-kbbjp.ondigitalocean.app'],
+    allowedHosts: ['lolayde-app-kbbjp.ondigitalocean.app', 'lolade.digitalasia.win', 'lolade.suts.app'],
   },
   server: {
     host: '0.0.0.0',
