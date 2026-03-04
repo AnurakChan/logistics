@@ -1,1 +1,1 @@
-web: cd logistics-app && npm run build && npm run start
+web: cd logistics-app && npm install && npm run build && npm run start
